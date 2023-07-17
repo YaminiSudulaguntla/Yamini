@@ -1,0 +1,5 @@
+print("This topic is about azure devops")
+print("This is Yamini")
+list=["yamini","Manoj","Ramya","Bharath"," Bilvani","Bhavagan","Pujith"]
+for i in list:
+print(f"This is {i}")
