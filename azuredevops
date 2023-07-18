@@ -6,3 +6,4 @@ print(f"This is {i}")
 for i in range(10):
 print(i)
 print("Completed the creation of ssh key")
+print("SSH key is essential to access local repo to remote repo")
